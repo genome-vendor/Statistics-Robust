@@ -1,0 +1,5 @@
+libstatistics-robust-perl (0.01-2~Ubuntu~precise) unstable; urgency=low
+
+  * Initial Release for precise
+
+ -- Anthony Brummett <abrummet@genome.wustl.edu>  Wed, 26 Sep 2012 19:03:06 -0500
