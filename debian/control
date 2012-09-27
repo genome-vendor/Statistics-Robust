@@ -1,0 +1,16 @@
+Source: libstatistics-robust-perl
+Section: perl
+Priority: optional
+Maintainer: Anthony Brummett <abrummet@genome.wustl.edu>
+Build-Depends: debhelper (>= 8), libtest-number-delta-perl, libmath-random-perl, libmath-round-perl, libmath-cdf-perl (>= 0.1)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.2
+Homepage: http://search.cpan.org/dist/Statistics-Robust/
+
+Package: libstatistics-robust-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}, libtest-number-delta-perl, libmath-random-perl, libmath-round-perl, libmath-cdf-perl (>= 0.1)
+Description: A Collection of Robust Statistical Methods
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
